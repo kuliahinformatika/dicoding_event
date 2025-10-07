@@ -25,3 +25,4 @@ function increment() {
  
   document.getElementById('incrementButton').onclick = increment;
   document.body.onload = welcome;
+  
